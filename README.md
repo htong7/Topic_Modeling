@@ -49,10 +49,4 @@ The project requires the following Python libraries:
 
 ---
 
-## License
-
-This project is licensed under the terms of the MIT license.
-
----
-
 Please note that this is a basic README file and you might want to add more sections such as 'Installation', 'Contributing', etc., based on your project requirements.
